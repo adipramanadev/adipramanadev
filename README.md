@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **personal projects and open-source contributions**
 - 🌱 I’m currently learning **Laravel, DevOps & AI Tools**
 - 💬 Ask me about **Web Development, APIs, and Clean Code**
-- 📫 How to reach me: **adipramanadev@gmail.com**
+- 📫 How to reach me: ****
 - ⚡ Fun fact: **Coffee + Code = My Happy Place ☕💻**
 
 ---
